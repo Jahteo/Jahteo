@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 🔭 I’m currently working on helping raise education rates in rural villages across the globe by building [an admin portal] (https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
+- 🔭 I’m currently working on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
 - 🌱 I’m currently learning more CS and how to build a puppy kennel 🐶
 - 💬 Ask me about the DM Screen I'm putting together.
 - ⚡ Fun fact: I met my spouse while teaching Capoeira classes
@@ -42,7 +42,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://josh-gh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-josh-gh.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/josh-glantzhucks"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josh%20Glantz%20Hucks-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:glantz-josh@lambdastudents.com"><img alt="Email" src="https://img.shields.io/badge/Email-glantz-josh@lambdastudents.com-blue?style=flat-square&logo=gmail"></a>
 </p>
