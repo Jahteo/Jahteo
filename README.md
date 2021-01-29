@@ -5,10 +5,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 🔭 I’m currently working on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
-- 🌱 I’m currently learning more CS and how to build a puppy kennel 🐶
+- 📝 I'm currently writing documentation to improve the developer onboarding process for a non-profit aiming to make reading and writing as satisfying as playing fortnight.
+- 🍎 I’ve recently worked on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
+- 🌱 I’m currently learning more CS and how to train a hyper puppy 🐶
 - 💬 Ask me about the DM Screen I'm putting together.
-- ⚡ Fun fact: I met my spouse while teaching Capoeira classes
+- ⚡ Fun fact: I met my spouse while teaching capoeira classes 
 - 😄 Pronouns: he/him/dork
  
  <h3> 🛠 &nbsp;Tech Stack</h3>
