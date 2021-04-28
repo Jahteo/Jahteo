@@ -5,9 +5,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 📝 I'm currently writing documentation to improve the developer onboarding process for a non-profit aiming to make reading and writing as satisfying as playing fortnight.
+- 📝 I'm currently working on building websites for small local businesses. [HopeGrowsNV.com's work-in-progress link](https://hopegrowsnv-com.vercel.app/), & another ecommerce site coming soon!
 - 🍎 I’ve recently worked on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
-- 🌱 I’m currently learning more CS and how to train a hyper puppy 🐶
+- 🌱 I’m currently learning to use Gatsby & Forestry together and how to exhaust a hyper husky 🐶
 - 💬 Ask me about the DM Screen I'm putting together.
 - ⚡ Fun fact: I met my spouse while teaching capoeira classes 
 - 😄 Pronouns: he/him/dork
@@ -38,14 +38,14 @@
 -->
 <br/>
 
-<!-- Put github stats here -->
+<!-- Put github stats here?? -->
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://josh-gh.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-josh-gh.netlify.app-blue?style=flat-square&logo=google-chrome"></a>
+<!-- Todo: add portfolio, if/when I get around to making a new one -->
 <a href="https://www.linkedin.com/in/josh-glantzhucks"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josh%20Glantz%20Hucks-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:glantz-josh@lambdastudents.com"><img alt="Email" src="https://img.shields.io/badge/Email-glantz-josh@lambdastudents.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Josh.GlantzHucks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Josh.GlantzHucks%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
