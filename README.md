@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 📝 I'm currently working on building websites for small local businesses. [HopeGrowsNV.com's work-in-progress link](https://hopegrowsnv-com.vercel.app/), & another ecommerce site coming soon!
+- 📝 I'm currently working on building websites for small local businesses. FInished [HopeGrowsNV.com](https://www.hopegrowsnv.com/), & currently on a full commerce site [PAFoghorn](https://www.pafoghorn.com/)!
 - 🍎 I’ve recently worked on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
 - 🌱 I’m currently learning to use Gatsby & Forestry together and how to exhaust a hyper husky 🐶
 - 💬 Ask me about the DM Screen I'm putting together.
