@@ -5,9 +5,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 📝 I'm currently working on building websites for small local businesses. Finished [HopeGrowsNV.com](https://www.hopegrowsnv.com/), & currently on a full commerce site [PAFoghorn](https://www.pafoghorn.com/)!
+- 📝 I'm currently working as a junior developer consultant with [Bitovi](bitovi.com) developing a template app for a well-known restaurant group scaling up their branch websites!
 - 🍎 I’ve recently worked on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
-- 🌱 I’m currently learning to use Gatsby & Forestry together and how to exhaust a hyper husky 🐶
+- 🌱 I’m currently learning to spin poi, play on aerial silks & cyr wheels and how to exhaust a hyper husky 🐶
 - 💬 Ask me about the DM Screen I'm putting together.
 - ⚡ Fun fact: I met my spouse while teaching capoeira classes 
 - 😄 Pronouns: he/him/dork
