@@ -3,14 +3,13 @@
 
 <h2> Thanks for stopping by, this is Josh from Nevada.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;I'm a full stack web developer who is passionate about making peoples interaction with technology better (UX). Bonus points when tech improves people's lives & the helps the environment.</h3>
+<h3> 👨🏻‍💻 &nbsp;I'm a frontend consultant who is passionate about making peoples interaction with technology better. Bonus points when tech improves people's lives & the helps the environment.</h3>
 
-- 📝 I'm currently working as a junior developer consultant with [Bitovi](bitovi.com) developing a template app for a well-known restaurant group scaling up their branch websites!
+- 📝 I work with [Bitovi](bitovi.com) to help clients !
 - 🍎 I’ve recently worked on helping raise education rates in rural villages across the globe by building [an admin portal](https://github.com/Lambda-School-Labs/village-book-builders-fe-b) for better tracking students and outcomes.
 - 🌱 I’m currently learning to spin poi, play on aerial silks & cyr wheels and how to exhaust a hyper husky 🐶
-- 💬 Ask me about the DM Screen I'm putting together.
 - ⚡ Fun fact: I met my spouse while teaching capoeira classes 
-- 😄 Pronouns: he/him/dork
+- Pronouns: he/him
  
  <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -27,15 +26,6 @@
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 -->
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-<!-- update to whimsical, database designs, canva? 
-- 🖥 &nbsp;
--->
 <br/>
 
 <!-- Put github stats here?? -->
@@ -45,7 +35,7 @@
 <p align="center">
 <!-- Todo: add portfolio, if/when I get around to making a new one -->
 <a href="https://www.linkedin.com/in/josh-glantzhucks"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Josh%20Glantz%20Hucks-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:Josh.GlantzHucks@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Josh.GlantzHucks%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:Jahteo+github@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-Josh.GlantzHucks%40gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 <br/>
